@@ -10,4 +10,5 @@ function logWhatsUp() {
   // input: none
   // output: none
   // side effect: logs the string "What's up?" to the console
+  console.log("What's up?");
 }
